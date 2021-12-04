@@ -5,3 +5,7 @@
 Shara is an automatic keyboard and mouse clicker built in Python. 
 
 I made this because a homogenous tit farms ROBLOX games for fun and because apparently she uses her mouse manually when farming which is dogballs. I also didn't trust other keyboard and mouse autoclickers that I found online so I decided to create one because why not.
+
+
+#Future Development
+I might add a GUI or something because Shahara is too inept to use 2 simple commands.
