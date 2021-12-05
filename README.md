@@ -8,4 +8,8 @@ I made this because a homogenous tit farms ROBLOX games for fun and because appa
 
 
 # Future Development
-I might add a GUI or something because Shahara is too inept to use 2 simple commands.
+> I might add a GUI or something because Shahara is too inept to use 2 simple commands.
+> Add logo to .exe application
+> Fix walk and movement bodge
+> Add betterGUI
+> Drink less coffee
